@@ -5,4 +5,6 @@ EdgeTX windows app that backups your models.
 - Keeps a raw copy as well for when you wnat to restore all models 
 - App will remember your directories so you dont have to constantly input it every time you run the app.
 
+There is also a version for 2 different transmitters, eg two different paths for each transmitter.
+
 ![EdgeTx Model Backup](images/EdgeTX_Model_Backup.png)
