@@ -7,6 +7,6 @@ EdgeTX windows app that backups your models.
 
 There is also a version for 2 different transmitters, eg two different paths for each transmitter.
 
-[Download EdgeTX Model Backup.exe](https://github.com/Onewaytohell/EdgeTX-Model-backup/raw/refs/heads/main/EdgeTX%20Model%20Backup.exe) or 2 transmitter version[Download EdgeTX MultiBackup.exe](https://github.com/Onewaytohell/EdgeTX-Model-backup/raw/refs/heads/main/EdgeTX%20MultiBackup.exe)
+Download [EdgeTX Model Backup.exe](https://github.com/Onewaytohell/EdgeTX-Model-backup/raw/refs/heads/main/EdgeTX%20Model%20Backup.exe) or 2 transmitter version[EdgeTX MultiBackup.exe](https://github.com/Onewaytohell/EdgeTX-Model-backup/raw/refs/heads/main/EdgeTX%20MultiBackup.exe)
 
 ![EdgeTx Model Backup](images/EdgeTX_Model_Backup.png)
